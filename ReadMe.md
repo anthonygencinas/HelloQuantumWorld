@@ -1,14 +1,14 @@
 
-#ReadMe
+# ReadMe
 
 To run the app see the following per use
 
 
-##VSCode
+## VSCode
 1. Open the project into VSCode
 2. Hit Run button
 
 
-##Docker
+## Docker
 
 1. run "dotnet run --project ./HelloQuantumWorld"
